@@ -4,13 +4,13 @@
     {
       "id": 0,
       "nama": "bilangan bulat",
-      "gambar": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1608123246/xfyg9opiavle5vojs9hd.png",
+      "gambar": "https://i.postimg.cc/dQXq57bM/xfyg9opiavle5vojs9hd.png",
       "pengertian": "Bilangan bulat adalah bilangan bukan pecahan atau disebut juga sebagai bilangan penuh. Bilangan bulat terbagi menjadi dua bentuk, yaitu bilangan bulat positif dan negatif. bentuk bBilangan bulat positif adalah bilangan bernilai positif yang berada di sebelah kanan dari nol pada garis bilangan."
     },
     {
         "id": 1,
         "nama": "bilangan cacah",
-        "gambar": "https://rumusbilangan.com/wp-content/uploads/2018/10/contoh-bilangan-cacah.png",
+        "gambar": "https://i.postimg.cc/KcsYCpgH/contoh-bilangan-cacah.png",
         "pengertian": "Bilangan cacah adalah gabungan bilangan nol dan bilangan asli. Sehingga bilangan cacah adalah bilangan bulat dari 0 ke bilangan bulat positif dari satu hingga tidak terhingga."
     },
     {
@@ -22,31 +22,31 @@
     {
         "id": 3,
         "nama": "bilangan genap",
-        "gambar": "https://2.bp.blogspot.com/-ztCN__rmyLU/WiYwKhcmTDI/AAAAAAAABec/rrW905gDEw022IWenvO-_fthrvVfTp12gCEwYBhgL/s320/angka-genap-bewarna-1-100-kotak.jpg",
+        "gambar": "https://i.postimg.cc/NFLj5mZD/angka-genap-bewarna-1-100-kotak.jpg",
         "pengertian":"Bilangan genap adalah bilangan asli yang merupakan kelipatan dari 2 atau habis dibagi 2. Contoh bilangan genap positif adalah 2, 4, 6, 8, 10, 12, 14, 16, dan seterusnya."
     },
     {
         "id": 4,
         "nama": "bilangan prima",
-        "gambar": "https://1.bp.blogspot.com/-pwF9D83hajw/VjDk_avzhPI/AAAAAAAAFZc/IPXCJyj1Zyc/s320/Bilangan%2BPrima%2B1-100.jpg",
+        "gambar": "https://i.postimg.cc/KzGzhdNd/Bilangan-Prima-1-100.jpg",
         "pengertian":"Bilangan prima, melansir dari Sumber Belajar Kemendikbud Ristek, adalah bilangan yang hanya memiliki 2 faktor yaitu adalah bilangan 1 dan bilangan itu sendiri. Artinya, bilangan prima hanya habis dibagi dengan bilangan 1 atau dengan bilangan itu sendiri."
     },
     {
         "id": 5,
         "nama": "penjumlahan",
-        "gambar": "https://www.advernesia.com/wp-content/uploads/2018/09/Penjumlahan.png",
+        "gambar": "https://i.postimg.cc/25mjnPPV/Penjumlahan.png",
         "pengertian": "Dalam matematika, penjumlahan adalah penambahan dari suatu urutan bilangan apa pun, hasilnya adalah jumlah atau total mereka."
     },
     {
         "id": 6,
         "nama": "pengurangan",
-        "gambar": "https://www.advernesia.com/wp-content/uploads/2018/10/Contoh-Pengurangan-Bilangan-Bulat.png",
+        "gambar": "https://i.postimg.cc/HscLm0ws/Contoh-Pengurangan-Bilangan-Bulat.png",
         "pengertian": "Pengurangan adalah operasi aritmetika yang mewakili operasi menghapus objek dari koleksi. Pengurangan ditandai dengan tanda minus"
     },
     {
         "id": 7,
         "nama": "perkalian",
-        "gambar": "https://1.bp.blogspot.com/-_w_LsSTebms/XV27Mfw1fZI/AAAAAAAAFAY/TPGa6qVOC-UIPvlI0yh_yGlKQYdJkvCnACLcBGAs/s640/Cara%2BMenghitung%2BPerkalian%2BDasar.png",
+        "gambar": "https://i.postimg.cc/8cWPRNPf/Cara-Menghitung-Perkalian-Dasar.png",
         "pengertian": "Perkalian bilangan bulat dapat dianggap sebagai penjumlahan berulang; yaitu, perkalian dua bilangan sama dengan menjumlahkan sebanyak mungkin salinan salah satunya"
     },
     {
@@ -58,7 +58,7 @@
     {
         "id": 9,
         "nama": "KPK dan FPB",
-        "gambar": "https://cdn-2.tstatic.net/lampung/foto/bank/images/penjelasan-apa-itu-kpk-dan-fpb-dalam-matematika-1.jpg",
+        "gambar": "https://i.postimg.cc/Rh3vM9nb/penjelasan-apa-itu-kpk-dan-fpb-dalam-matematika-1.jpg",
         "pengertian": "KPK atau Kelipatan Persekutuan Terkecil adalah bilangan kelipatan terkecil yang sama dari banyaknya suatu bilangan tertentu. Sedangkan FPB atau Faktor Persekutuan Terbesar adalah faktor persekutuan yang nilainya terbesar di antara faktor-faktor persekutuan lainnya"
     }
 
